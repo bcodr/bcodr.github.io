@@ -186,12 +186,14 @@ html,body{
     font-family: 'Poppins', sans-serif;
     text-transform: capitalize;
     font-weight: 600;
-    margin: 14px 0px 0;
     padding: 10px 0 0 0;
 }
 .logo a span{
     color:  var(--primary);
     text-transform: capitalize;
+}
+.logo img{
+    height:60px;
 }
 
 /*.logo*/
